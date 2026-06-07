@@ -1,6 +1,6 @@
 # Publicacion no vende en Mercado Libre
 
-Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+Entrada recomendada: =github-readme&utm_campaign=publicacion-no-vende-mercado-libre
 
 Micrositio para vendedores online que buscan por que una publicacion no vende antes de bajar precio.
 
